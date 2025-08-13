@@ -12,7 +12,7 @@ const Navbar = () => {
             <div className="flex  items-center w-2/4 md:w-1/4 justify-between ">
                 <a href="/" className='text-gray-400 text-sm hover:text-white hover:scale-105 duration-300 ease-in-out'>Home</a>
                 <a href="/About" className='text-gray-400 text-sm hover:text-white hover:scale-105 duration-300 ease-in-out'>About</a>
-                <a href="/" className='text-gray-400 text-sm hover:text-white hover:scale-105 duration-300 ease-in-out'>Code</a>
+                <a href="https://github.com/hitesh-minhas/password-manager" target='_blank' className='text-gray-400 text-sm hover:text-white hover:scale-105 duration-300 ease-in-out'>Code</a>
             </div>
         </nav>
     )
