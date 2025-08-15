@@ -62,7 +62,7 @@ _(Currently a **work in progress** — features and security will be expanded so
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/password-manager.git
+git clone https://github.com/hitesh-minhas/password-manager.git
 cd password-manager
 ```
 
